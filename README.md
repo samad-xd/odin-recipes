@@ -1,0 +1,1 @@
+This is just a project as part of learning web development from The Odin Project.
